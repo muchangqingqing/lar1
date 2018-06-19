@@ -488,7 +488,7 @@ class Response
      *
      * @final
      */
-    public function getCharset()
+    public function getCharset(): string
     {
         return $this->charset;
     }
