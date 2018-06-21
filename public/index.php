@@ -7,8 +7,7 @@
  * @author   Taylor Otwell <taylor@laravel.com>
  */
 
-error_reporting(E_all);
-ini_set("display_errors",1);
+
 define('LARAVEL_START', microtime(true));
 
 /*
